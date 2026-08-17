@@ -1,1 +1,2 @@
-# Generador-Contrase-as
+# GENERADOR DE CREDENCIALES
+
